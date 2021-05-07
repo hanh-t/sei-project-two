@@ -1,9 +1,9 @@
-# Software Engineering Immersive Project 2: Quizavision
+# SEI Project 2: Quizavision
 
 ## Table of Contents
 Overview<br/>
-Brief & Timeframe<br/>
-Link to Project & Installation<br/>
+[Brief & Timeframe](#brief) <br/>
+[Link to Project & Installation](#project) <br/>
 [Technologies used](#technologies-used) <br/>
 Development (screenshots & featured code) <br/>
 Known bugs<br/>
@@ -14,7 +14,9 @@ Key learnings<br/>
 ## Overview
 This was my second project at GA and we had to create a React app within 48 hours, in pairs, that consumed an external API.
 
-## Brief 
+![quizavision-homepage](https://github.com/hannahtinacci/sei-project-two/blob/master/quizavision-home.gif)
+
+## <a name="brief"></a>Brief 
 * Consume a public API
 * Have several components
 * The app can have a router with several "pages", if it makes sense for your project
@@ -24,7 +26,7 @@ This was my second project at GA and we had to create a React app within 48 hour
 ## Timeframe
 48 hours
 
-## Link to deployed project 
+## <a name="project"></a> Link to deployed project 
 https://quizavision.netlify.app/
 
 ## Code installation
