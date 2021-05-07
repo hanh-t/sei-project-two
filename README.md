@@ -1,9 +1,49 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) GA London React Template
+# Software Engineering Immersive Project 2: Quizavision
 
-`yarn start` to run the development server
+## Table of Contents
+Overview<br/>
+Brief & Timeframe<br/>
+Link to Project & Installation<br/>
+[Technologies used](#technologies-used) <br/>
+Development (screenshots & featured code) <br/>
+Known bugs<br/>
+Wins and Challenges<br/>
+Future improvements<br/>
+Key learnings<br/>
 
-`yarn build` to create a build directory
+## Overview
+This was my second project at GA and we had to create a React app within 48 hours, in pairs, that consumed an external API.
+
+## Brief 
+* Consume a public API
+* Have several components
+* The app can have a router with several "pages", if it makes sense for your project
+* Include wireframes
+* Be deployed online and be accessible to the public
+
+## Timeframe
+48 hours
+
+## Link to deployed project 
+https://quizavision.netlify.app/
+
+## Code installation
+* Clone or download the repo
+* In Terminal run the command: yarn
+* Start development server by running: yarn start
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## <a name="technologies-used"></a>Technologies used
+* React.js & React Hooks
+* JavaScript (ES6)
+* HTML5
+* Axios
+* Insomnia
+* Bulma
+* SCSS
+* Git/GitHub
+* Open Trivia Database API: https://opentdb.com/api_config.php
+
+
 
