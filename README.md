@@ -13,7 +13,8 @@ Key learnings<br/>
 
 ## Overview
 This was my second project at GA and we had to create a React app within 48 hours, in pairs, that consumed an external API.
-
+<br/>
+<br/>
 ![quizavision-homepage](https://github.com/hannahtinacci/sei-project-two/blob/master/quizavision-home.gif)
 
 ## <a name="brief"></a>Brief 
